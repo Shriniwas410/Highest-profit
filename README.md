@@ -5,13 +5,13 @@ This solution is for the Highest-Profit challenge mentioned.
 
 The following is the description of the files in the repository:
 
-1. Highest-profit.ipynb - Jupiter notebook executable code with examples
+**1. Highest-profit.ipynb** - Jupiter notebook executable code with examples
 
-2. data.csv - Original Raw data file
+**2. data.csv** - Original Raw data file
 
-3. data2.json - Cleaned data file with only numeric values for the “Profit(in millions)” column.
+**3. data2.json** - Cleaned data file with only numeric values for the “Profit(in millions)” column.
 
-4. data_sorted.json - This file contains the cleaned sorted data required for the challenge.
+**4. data_sorted.json** - This file contains the cleaned sorted data required for the challenge.
 
 # WorkFlow with examples
 1. First we install pandas.
