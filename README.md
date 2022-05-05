@@ -35,7 +35,7 @@ The following is the description of the files in the repositiory:
 6. Sorted the data by “Profit” column in Descending order.
 
 7. Printed top 20 records of the data.
-![image](https://user-images.githubusercontent.com/82992833/166964781-a4124e7a-a7ff-45bf-aeae-04fdc9c120e0.png)
+![image](https://user-images.githubusercontent.com/82992833/166965220-5fb991a6-4b33-4fc9-acd7-a5696b69e4f2.png)
 
 8. Additionally, sorted the sorted adn cleaned data output in “data_sorted.json” file.
 
