@@ -19,22 +19,27 @@ The following is the description of the files in the repository:
 2. Using pandas to read the data file.
 
 3. Check the number of rows in the data.
+
 ![image](https://user-images.githubusercontent.com/82992833/166964501-f280748e-1449-4d8b-8ba8-94a57578be12.png)
 
 4. Checked data for non-numeric values in the Profit column.
+
 ![image](https://user-images.githubusercontent.com/82992833/166965128-24b01e16-cfc9-4ccf-982f-90f3a41af3f9.png)
 
 5. Removed the rows containing non-numeric values in the Profit column.
 
 6. Check the number of rows in the cleaned data.
+
 ![image](https://user-images.githubusercontent.com/82992833/166965099-583a4a7a-2b21-4eb7-b893-cfeb8d68da10.png)
 
 5. Stored the required output in “data2.json” file.
+
 ![image](https://user-images.githubusercontent.com/82992833/166964884-144211e4-76bd-4163-a6a4-ff026286a4a6.png)
 
 6. Sorted the data by the “Profit” column in Descending order.
 
 7. Printed top 20 records of the data.
+
 ![image](https://user-images.githubusercontent.com/82992833/166965220-5fb991a6-4b33-4fc9-acd7-a5696b69e4f2.png)
 
 8. Additionally, sorted the sorted and cleaned data output in “data_sorted.json” file.
