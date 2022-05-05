@@ -3,13 +3,13 @@ This repository contains a solution to one of the challenges provided for the SA
 # Highest-Profit
 This solution is for the Highest-Profit challenge mentioned. 
 
-The following is the description of the files in the repositiory:
+The following is the description of the files in the repository:
 
 1. Highest-profit.ipynb - Jupiter notebook executable code with examples
 
 2. data.csv - Original Raw data file
 
-3. data2.json - Cleaned data file with only numeric values for “Profit(in millions)” column
+3. data2.json - Cleaned data file with only numeric values for the “Profit(in millions)” column.
 
 4. data_sorted.json - This file contains the cleaned sorted data required for the challenge.
 
@@ -32,10 +32,13 @@ The following is the description of the files in the repositiory:
 5. Stored the required output in “data2.json” file.
 ![image](https://user-images.githubusercontent.com/82992833/166964884-144211e4-76bd-4163-a6a4-ff026286a4a6.png)
 
-6. Sorted the data by “Profit” column in Descending order.
+6. Sorted the data by the “Profit” column in Descending order.
 
 7. Printed top 20 records of the data.
 ![image](https://user-images.githubusercontent.com/82992833/166965220-5fb991a6-4b33-4fc9-acd7-a5696b69e4f2.png)
 
-8. Additionally, sorted the sorted adn cleaned data output in “data_sorted.json” file.
+8. Additionally, sorted the sorted and cleaned data output in “data_sorted.json” file.
 
+# Additional-note
+We could solve this challenge using SQL as well. But as the data was small and could fit into the memory using pandas in python and using SQL has no performance difference. If the data would be large, using SQL primarily in BigQuery would be faster and easier.
+Below is the SQL code used in BigQuery
