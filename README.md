@@ -22,12 +22,12 @@ The following is the description of the files in the repositiory:
 ![image](https://user-images.githubusercontent.com/82992833/166964501-f280748e-1449-4d8b-8ba8-94a57578be12.png)
 
 4. Checked data for non-numeric values in the Profit column.
-![image](https://user-images.githubusercontent.com/82992833/166964712-ddf694d7-074f-4f34-b048-2fe1a3f9c7bc.png)
+![image](https://user-images.githubusercontent.com/82992833/166965128-24b01e16-cfc9-4ccf-982f-90f3a41af3f9.png)
 
 5. Removed the rows containing non-numeric values in the Profit column.
 
 6. Check the number of rows in the cleaned data.
-![image](https://user-images.githubusercontent.com/82992833/166964664-f88b978b-6c1d-4975-80a3-5d5ff987043b.png)
+![image](https://user-images.githubusercontent.com/82992833/166965099-583a4a7a-2b21-4eb7-b893-cfeb8d68da10.png)
 
 5. Stored the required output in “data2.json” file.
 ![image](https://user-images.githubusercontent.com/82992833/166964884-144211e4-76bd-4163-a6a4-ff026286a4a6.png)
