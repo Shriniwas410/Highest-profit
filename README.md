@@ -1,5 +1,6 @@
 # Shriniwas_SADA_assesment
 This repository contains a solution to one of the challenges provided for the SADA assessment.
+(Please find below the changes made form the last submission)
 # Highest-Profit
 This solution is for the Highest-Profit challenge mentioned. 
 
@@ -43,6 +44,10 @@ The following is the description of the files in the repository:
 ![image](https://user-images.githubusercontent.com/82992833/166965220-5fb991a6-4b33-4fc9-acd7-a5696b69e4f2.png)
 
 8. Additionally, sorted the sorted and cleaned data output in “data_sorted.json” file.
+
+# Changes:
+The 'Profit' column after extracting was a data type of object and had to be converted to float to get the correct sorted output.
+The code describes the changes mendtioned with description.
 
 # Additional-note
 We could solve this challenge using SQL as well. But as the data was small and could fit into the memory using pandas in python and using SQL has no performance difference. If the data would be large, using SQL primarily in BigQuery would be faster and easier.
