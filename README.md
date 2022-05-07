@@ -41,9 +41,11 @@ The following is the description of the files in the repository:
 
 7. Printed top 20 records of the data.
 
-![image](https://user-images.githubusercontent.com/82992833/166965220-5fb991a6-4b33-4fc9-acd7-a5696b69e4f2.png)
+![image](https://user-images.githubusercontent.com/82992833/167268025-3dc7df81-8d53-48ef-ac44-f8d95598b9ff.png)
 
 8. Additionally, sorted the sorted and cleaned data output in “data_sorted.json” file.
+
+![image](https://user-images.githubusercontent.com/82992833/167268038-02da07ff-5890-4d52-b537-bae7cf097fad.png)
 
 # Changes:
 The 'Profit' column after extracting was a data type of object and had to be converted to float to get the correct sorted output.
