@@ -1,4 +1,4 @@
-# Shriniwas_SADA_assesment
+# Calculating Highest profit SQL
 This repository contains a solution to one of the challenges provided for the SADA assessment.
 (Please find below the changes made form the last submission)
 # Highest-Profit
