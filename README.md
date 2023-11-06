@@ -1,9 +1,7 @@
-# Calculating Highest profit SQL
-This repository contains a solution to one of the challenges provided for the SADA assessment.
-(Please find below the changes made form the last submission)
-# Highest-Profit
-This solution is for the Highest-Profit challenge mentioned. 
+# Calculating Highest profit 
+This repository contains a script which calculates Profit(in millions)
 
+# Description
 The following is the description of the files in the repository:
 
 **1. Highest-profit.ipynb** - Jupiter notebook executable code with examples
