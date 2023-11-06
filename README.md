@@ -1,5 +1,5 @@
 # Calculating Highest profit 
-This repository contains a script which calculates Profit(in millions)
+This repository contains a script which calculates Profit(in millions) for companies with mitigating error in data.
 
 # Description
 The following is the description of the files in the repository:
